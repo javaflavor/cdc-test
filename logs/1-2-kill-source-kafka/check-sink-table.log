@@ -1,0 +1,1321 @@
+2020-07-15 13:20:37 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:20:37 +-----------+
+2020-07-15 13:20:37 | count(id) |
+2020-07-15 13:20:37 +-----------+
+2020-07-15 13:20:37 |         0 |
+2020-07-15 13:20:37 +-----------+
+2020-07-15 13:20:39 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:20:39 +-----------+
+2020-07-15 13:20:39 | count(id) |
+2020-07-15 13:20:39 +-----------+
+2020-07-15 13:20:39 |         0 |
+2020-07-15 13:20:39 +-----------+
+2020-07-15 13:20:40 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:20:40 +-----------+
+2020-07-15 13:20:40 | count(id) |
+2020-07-15 13:20:40 +-----------+
+2020-07-15 13:20:40 |         0 |
+2020-07-15 13:20:40 +-----------+
+2020-07-15 13:20:42 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:20:42 +-----------+
+2020-07-15 13:20:42 | count(id) |
+2020-07-15 13:20:42 +-----------+
+2020-07-15 13:20:42 |         0 |
+2020-07-15 13:20:42 +-----------+
+2020-07-15 13:20:44 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:20:44 +-----------+
+2020-07-15 13:20:44 | count(id) |
+2020-07-15 13:20:44 +-----------+
+2020-07-15 13:20:44 |         0 |
+2020-07-15 13:20:44 +-----------+
+2020-07-15 13:20:45 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:20:45 +-----------+
+2020-07-15 13:20:45 | count(id) |
+2020-07-15 13:20:45 +-----------+
+2020-07-15 13:20:45 |         0 |
+2020-07-15 13:20:45 +-----------+
+2020-07-15 13:20:47 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:20:47 +-----------+
+2020-07-15 13:20:47 | count(id) |
+2020-07-15 13:20:47 +-----------+
+2020-07-15 13:20:47 |         0 |
+2020-07-15 13:20:47 +-----------+
+2020-07-15 13:20:49 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:20:49 +-----------+
+2020-07-15 13:20:49 | count(id) |
+2020-07-15 13:20:49 +-----------+
+2020-07-15 13:20:49 |         0 |
+2020-07-15 13:20:49 +-----------+
+2020-07-15 13:20:51 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:20:51 +-----------+
+2020-07-15 13:20:51 | count(id) |
+2020-07-15 13:20:51 +-----------+
+2020-07-15 13:20:51 |         2 |
+2020-07-15 13:20:51 +-----------+
+2020-07-15 13:20:52 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:20:52 +-----------+
+2020-07-15 13:20:52 | count(id) |
+2020-07-15 13:20:52 +-----------+
+2020-07-15 13:20:52 |         4 |
+2020-07-15 13:20:52 +-----------+
+2020-07-15 13:20:54 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:20:54 +-----------+
+2020-07-15 13:20:54 | count(id) |
+2020-07-15 13:20:54 +-----------+
+2020-07-15 13:20:54 |         6 |
+2020-07-15 13:20:54 +-----------+
+2020-07-15 13:20:56 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:20:56 +-----------+
+2020-07-15 13:20:56 | count(id) |
+2020-07-15 13:20:56 +-----------+
+2020-07-15 13:20:56 |         8 |
+2020-07-15 13:20:56 +-----------+
+2020-07-15 13:20:57 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:20:57 +-----------+
+2020-07-15 13:20:57 | count(id) |
+2020-07-15 13:20:57 +-----------+
+2020-07-15 13:20:57 |        11 |
+2020-07-15 13:20:57 +-----------+
+2020-07-15 13:20:59 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:20:59 +-----------+
+2020-07-15 13:20:59 | count(id) |
+2020-07-15 13:20:59 +-----------+
+2020-07-15 13:20:59 |        13 |
+2020-07-15 13:20:59 +-----------+
+2020-07-15 13:21:01 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:01 +-----------+
+2020-07-15 13:21:01 | count(id) |
+2020-07-15 13:21:01 +-----------+
+2020-07-15 13:21:01 |        16 |
+2020-07-15 13:21:01 +-----------+
+2020-07-15 13:21:02 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:02 +-----------+
+2020-07-15 13:21:02 | count(id) |
+2020-07-15 13:21:02 +-----------+
+2020-07-15 13:21:02 |        16 |
+2020-07-15 13:21:02 +-----------+
+2020-07-15 13:21:04 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:04 +-----------+
+2020-07-15 13:21:04 | count(id) |
+2020-07-15 13:21:04 +-----------+
+2020-07-15 13:21:04 |        16 |
+2020-07-15 13:21:04 +-----------+
+2020-07-15 13:21:06 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:06 +-----------+
+2020-07-15 13:21:06 | count(id) |
+2020-07-15 13:21:06 +-----------+
+2020-07-15 13:21:06 |        16 |
+2020-07-15 13:21:06 +-----------+
+2020-07-15 13:21:07 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:07 +-----------+
+2020-07-15 13:21:07 | count(id) |
+2020-07-15 13:21:07 +-----------+
+2020-07-15 13:21:07 |        16 |
+2020-07-15 13:21:07 +-----------+
+2020-07-15 13:21:09 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:09 +-----------+
+2020-07-15 13:21:09 | count(id) |
+2020-07-15 13:21:09 +-----------+
+2020-07-15 13:21:09 |        16 |
+2020-07-15 13:21:09 +-----------+
+2020-07-15 13:21:11 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:11 +-----------+
+2020-07-15 13:21:11 | count(id) |
+2020-07-15 13:21:11 +-----------+
+2020-07-15 13:21:11 |        16 |
+2020-07-15 13:21:11 +-----------+
+2020-07-15 13:21:13 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:13 +-----------+
+2020-07-15 13:21:13 | count(id) |
+2020-07-15 13:21:13 +-----------+
+2020-07-15 13:21:13 |        16 |
+2020-07-15 13:21:13 +-----------+
+2020-07-15 13:21:14 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:14 +-----------+
+2020-07-15 13:21:14 | count(id) |
+2020-07-15 13:21:14 +-----------+
+2020-07-15 13:21:14 |        16 |
+2020-07-15 13:21:14 +-----------+
+2020-07-15 13:21:16 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:16 +-----------+
+2020-07-15 13:21:16 | count(id) |
+2020-07-15 13:21:16 +-----------+
+2020-07-15 13:21:16 |        16 |
+2020-07-15 13:21:16 +-----------+
+2020-07-15 13:21:18 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:18 +-----------+
+2020-07-15 13:21:18 | count(id) |
+2020-07-15 13:21:18 +-----------+
+2020-07-15 13:21:18 |        16 |
+2020-07-15 13:21:18 +-----------+
+2020-07-15 13:21:20 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:20 +-----------+
+2020-07-15 13:21:20 | count(id) |
+2020-07-15 13:21:20 +-----------+
+2020-07-15 13:21:20 |        20 |
+2020-07-15 13:21:20 +-----------+
+2020-07-15 13:21:21 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:21 +-----------+
+2020-07-15 13:21:21 | count(id) |
+2020-07-15 13:21:21 +-----------+
+2020-07-15 13:21:21 |        20 |
+2020-07-15 13:21:21 +-----------+
+2020-07-15 13:21:23 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:23 +-----------+
+2020-07-15 13:21:23 | count(id) |
+2020-07-15 13:21:23 +-----------+
+2020-07-15 13:21:23 |        20 |
+2020-07-15 13:21:23 +-----------+
+2020-07-15 13:21:25 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:25 +-----------+
+2020-07-15 13:21:25 | count(id) |
+2020-07-15 13:21:25 +-----------+
+2020-07-15 13:21:25 |        20 |
+2020-07-15 13:21:25 +-----------+
+2020-07-15 13:21:27 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:27 +-----------+
+2020-07-15 13:21:27 | count(id) |
+2020-07-15 13:21:27 +-----------+
+2020-07-15 13:21:27 |        20 |
+2020-07-15 13:21:27 +-----------+
+2020-07-15 13:21:29 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:29 +-----------+
+2020-07-15 13:21:29 | count(id) |
+2020-07-15 13:21:29 +-----------+
+2020-07-15 13:21:29 |        20 |
+2020-07-15 13:21:29 +-----------+
+2020-07-15 13:21:30 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:30 +-----------+
+2020-07-15 13:21:30 | count(id) |
+2020-07-15 13:21:30 +-----------+
+2020-07-15 13:21:30 |        20 |
+2020-07-15 13:21:30 +-----------+
+2020-07-15 13:21:32 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:32 +-----------+
+2020-07-15 13:21:32 | count(id) |
+2020-07-15 13:21:32 +-----------+
+2020-07-15 13:21:32 |        20 |
+2020-07-15 13:21:32 +-----------+
+2020-07-15 13:21:34 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:34 +-----------+
+2020-07-15 13:21:34 | count(id) |
+2020-07-15 13:21:34 +-----------+
+2020-07-15 13:21:34 |        20 |
+2020-07-15 13:21:34 +-----------+
+2020-07-15 13:21:35 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:35 +-----------+
+2020-07-15 13:21:35 | count(id) |
+2020-07-15 13:21:35 +-----------+
+2020-07-15 13:21:35 |        20 |
+2020-07-15 13:21:35 +-----------+
+2020-07-15 13:21:37 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:37 +-----------+
+2020-07-15 13:21:37 | count(id) |
+2020-07-15 13:21:37 +-----------+
+2020-07-15 13:21:37 |        20 |
+2020-07-15 13:21:37 +-----------+
+2020-07-15 13:21:39 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:39 +-----------+
+2020-07-15 13:21:39 | count(id) |
+2020-07-15 13:21:39 +-----------+
+2020-07-15 13:21:39 |        20 |
+2020-07-15 13:21:39 +-----------+
+2020-07-15 13:21:40 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:40 +-----------+
+2020-07-15 13:21:40 | count(id) |
+2020-07-15 13:21:40 +-----------+
+2020-07-15 13:21:40 |        20 |
+2020-07-15 13:21:40 +-----------+
+2020-07-15 13:21:42 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:42 +-----------+
+2020-07-15 13:21:42 | count(id) |
+2020-07-15 13:21:42 +-----------+
+2020-07-15 13:21:42 |        20 |
+2020-07-15 13:21:42 +-----------+
+2020-07-15 13:21:44 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:44 +-----------+
+2020-07-15 13:21:44 | count(id) |
+2020-07-15 13:21:44 +-----------+
+2020-07-15 13:21:44 |        20 |
+2020-07-15 13:21:44 +-----------+
+2020-07-15 13:21:45 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:45 +-----------+
+2020-07-15 13:21:45 | count(id) |
+2020-07-15 13:21:45 +-----------+
+2020-07-15 13:21:45 |        20 |
+2020-07-15 13:21:45 +-----------+
+2020-07-15 13:21:47 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:47 +-----------+
+2020-07-15 13:21:47 | count(id) |
+2020-07-15 13:21:47 +-----------+
+2020-07-15 13:21:47 |        20 |
+2020-07-15 13:21:47 +-----------+
+2020-07-15 13:21:49 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:49 +-----------+
+2020-07-15 13:21:49 | count(id) |
+2020-07-15 13:21:49 +-----------+
+2020-07-15 13:21:49 |        20 |
+2020-07-15 13:21:49 +-----------+
+2020-07-15 13:21:50 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:50 +-----------+
+2020-07-15 13:21:50 | count(id) |
+2020-07-15 13:21:50 +-----------+
+2020-07-15 13:21:50 |        20 |
+2020-07-15 13:21:50 +-----------+
+2020-07-15 13:21:52 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:52 +-----------+
+2020-07-15 13:21:52 | count(id) |
+2020-07-15 13:21:52 +-----------+
+2020-07-15 13:21:52 |        20 |
+2020-07-15 13:21:52 +-----------+
+2020-07-15 13:21:54 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:54 +-----------+
+2020-07-15 13:21:54 | count(id) |
+2020-07-15 13:21:54 +-----------+
+2020-07-15 13:21:54 |        20 |
+2020-07-15 13:21:54 +-----------+
+2020-07-15 13:21:56 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:56 +-----------+
+2020-07-15 13:21:56 | count(id) |
+2020-07-15 13:21:56 +-----------+
+2020-07-15 13:21:56 |        20 |
+2020-07-15 13:21:56 +-----------+
+2020-07-15 13:21:57 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:57 +-----------+
+2020-07-15 13:21:57 | count(id) |
+2020-07-15 13:21:57 +-----------+
+2020-07-15 13:21:57 |        20 |
+2020-07-15 13:21:57 +-----------+
+2020-07-15 13:21:59 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:21:59 +-----------+
+2020-07-15 13:21:59 | count(id) |
+2020-07-15 13:21:59 +-----------+
+2020-07-15 13:21:59 |        20 |
+2020-07-15 13:21:59 +-----------+
+2020-07-15 13:22:01 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:01 +-----------+
+2020-07-15 13:22:01 | count(id) |
+2020-07-15 13:22:01 +-----------+
+2020-07-15 13:22:01 |        20 |
+2020-07-15 13:22:01 +-----------+
+2020-07-15 13:22:02 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:02 +-----------+
+2020-07-15 13:22:02 | count(id) |
+2020-07-15 13:22:02 +-----------+
+2020-07-15 13:22:02 |        20 |
+2020-07-15 13:22:02 +-----------+
+2020-07-15 13:22:04 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:04 +-----------+
+2020-07-15 13:22:04 | count(id) |
+2020-07-15 13:22:04 +-----------+
+2020-07-15 13:22:04 |        20 |
+2020-07-15 13:22:04 +-----------+
+2020-07-15 13:22:05 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:05 +-----------+
+2020-07-15 13:22:05 | count(id) |
+2020-07-15 13:22:05 +-----------+
+2020-07-15 13:22:05 |        20 |
+2020-07-15 13:22:05 +-----------+
+2020-07-15 13:22:07 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:07 +-----------+
+2020-07-15 13:22:07 | count(id) |
+2020-07-15 13:22:07 +-----------+
+2020-07-15 13:22:07 |        20 |
+2020-07-15 13:22:07 +-----------+
+2020-07-15 13:22:09 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:09 +-----------+
+2020-07-15 13:22:09 | count(id) |
+2020-07-15 13:22:09 +-----------+
+2020-07-15 13:22:09 |        20 |
+2020-07-15 13:22:09 +-----------+
+2020-07-15 13:22:10 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:10 +-----------+
+2020-07-15 13:22:10 | count(id) |
+2020-07-15 13:22:10 +-----------+
+2020-07-15 13:22:10 |        20 |
+2020-07-15 13:22:10 +-----------+
+2020-07-15 13:22:12 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:12 +-----------+
+2020-07-15 13:22:12 | count(id) |
+2020-07-15 13:22:12 +-----------+
+2020-07-15 13:22:12 |        20 |
+2020-07-15 13:22:12 +-----------+
+2020-07-15 13:22:13 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:13 +-----------+
+2020-07-15 13:22:13 | count(id) |
+2020-07-15 13:22:13 +-----------+
+2020-07-15 13:22:13 |        20 |
+2020-07-15 13:22:13 +-----------+
+2020-07-15 13:22:15 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:15 +-----------+
+2020-07-15 13:22:15 | count(id) |
+2020-07-15 13:22:15 +-----------+
+2020-07-15 13:22:15 |        20 |
+2020-07-15 13:22:15 +-----------+
+2020-07-15 13:22:17 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:17 +-----------+
+2020-07-15 13:22:17 | count(id) |
+2020-07-15 13:22:17 +-----------+
+2020-07-15 13:22:17 |        20 |
+2020-07-15 13:22:17 +-----------+
+2020-07-15 13:22:18 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:18 +-----------+
+2020-07-15 13:22:18 | count(id) |
+2020-07-15 13:22:18 +-----------+
+2020-07-15 13:22:18 |        20 |
+2020-07-15 13:22:18 +-----------+
+2020-07-15 13:22:20 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:20 +-----------+
+2020-07-15 13:22:20 | count(id) |
+2020-07-15 13:22:20 +-----------+
+2020-07-15 13:22:20 |        20 |
+2020-07-15 13:22:20 +-----------+
+2020-07-15 13:22:22 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:22 +-----------+
+2020-07-15 13:22:22 | count(id) |
+2020-07-15 13:22:22 +-----------+
+2020-07-15 13:22:22 |        20 |
+2020-07-15 13:22:22 +-----------+
+2020-07-15 13:22:24 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:24 +-----------+
+2020-07-15 13:22:24 | count(id) |
+2020-07-15 13:22:24 +-----------+
+2020-07-15 13:22:24 |        20 |
+2020-07-15 13:22:24 +-----------+
+2020-07-15 13:22:26 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:26 +-----------+
+2020-07-15 13:22:26 | count(id) |
+2020-07-15 13:22:26 +-----------+
+2020-07-15 13:22:26 |        20 |
+2020-07-15 13:22:26 +-----------+
+2020-07-15 13:22:27 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:27 +-----------+
+2020-07-15 13:22:27 | count(id) |
+2020-07-15 13:22:27 +-----------+
+2020-07-15 13:22:27 |        20 |
+2020-07-15 13:22:27 +-----------+
+2020-07-15 13:22:29 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:29 +-----------+
+2020-07-15 13:22:29 | count(id) |
+2020-07-15 13:22:29 +-----------+
+2020-07-15 13:22:29 |        20 |
+2020-07-15 13:22:29 +-----------+
+2020-07-15 13:22:31 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:31 +-----------+
+2020-07-15 13:22:31 | count(id) |
+2020-07-15 13:22:31 +-----------+
+2020-07-15 13:22:31 |        20 |
+2020-07-15 13:22:31 +-----------+
+2020-07-15 13:22:32 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:32 +-----------+
+2020-07-15 13:22:32 | count(id) |
+2020-07-15 13:22:32 +-----------+
+2020-07-15 13:22:32 |        20 |
+2020-07-15 13:22:32 +-----------+
+2020-07-15 13:22:34 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:34 +-----------+
+2020-07-15 13:22:34 | count(id) |
+2020-07-15 13:22:34 +-----------+
+2020-07-15 13:22:34 |        20 |
+2020-07-15 13:22:34 +-----------+
+2020-07-15 13:22:36 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:36 +-----------+
+2020-07-15 13:22:36 | count(id) |
+2020-07-15 13:22:36 +-----------+
+2020-07-15 13:22:36 |        20 |
+2020-07-15 13:22:36 +-----------+
+2020-07-15 13:22:38 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:38 +-----------+
+2020-07-15 13:22:38 | count(id) |
+2020-07-15 13:22:38 +-----------+
+2020-07-15 13:22:38 |        20 |
+2020-07-15 13:22:38 +-----------+
+2020-07-15 13:22:39 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:39 +-----------+
+2020-07-15 13:22:39 | count(id) |
+2020-07-15 13:22:39 +-----------+
+2020-07-15 13:22:39 |        20 |
+2020-07-15 13:22:39 +-----------+
+2020-07-15 13:22:41 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:41 +-----------+
+2020-07-15 13:22:41 | count(id) |
+2020-07-15 13:22:41 +-----------+
+2020-07-15 13:22:41 |        20 |
+2020-07-15 13:22:41 +-----------+
+2020-07-15 13:22:43 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:43 +-----------+
+2020-07-15 13:22:43 | count(id) |
+2020-07-15 13:22:43 +-----------+
+2020-07-15 13:22:43 |        20 |
+2020-07-15 13:22:43 +-----------+
+2020-07-15 13:22:45 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:45 +-----------+
+2020-07-15 13:22:45 | count(id) |
+2020-07-15 13:22:45 +-----------+
+2020-07-15 13:22:45 |        20 |
+2020-07-15 13:22:45 +-----------+
+2020-07-15 13:22:46 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:46 +-----------+
+2020-07-15 13:22:46 | count(id) |
+2020-07-15 13:22:46 +-----------+
+2020-07-15 13:22:46 |        20 |
+2020-07-15 13:22:46 +-----------+
+2020-07-15 13:22:48 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:48 +-----------+
+2020-07-15 13:22:48 | count(id) |
+2020-07-15 13:22:48 +-----------+
+2020-07-15 13:22:48 |        20 |
+2020-07-15 13:22:48 +-----------+
+2020-07-15 13:22:50 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:50 +-----------+
+2020-07-15 13:22:50 | count(id) |
+2020-07-15 13:22:50 +-----------+
+2020-07-15 13:22:50 |        20 |
+2020-07-15 13:22:50 +-----------+
+2020-07-15 13:22:52 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:52 +-----------+
+2020-07-15 13:22:52 | count(id) |
+2020-07-15 13:22:52 +-----------+
+2020-07-15 13:22:52 |        20 |
+2020-07-15 13:22:52 +-----------+
+2020-07-15 13:22:53 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:53 +-----------+
+2020-07-15 13:22:53 | count(id) |
+2020-07-15 13:22:53 +-----------+
+2020-07-15 13:22:53 |        20 |
+2020-07-15 13:22:53 +-----------+
+2020-07-15 13:22:55 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:57 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:57 +-----------+
+2020-07-15 13:22:57 | count(id) |
+2020-07-15 13:22:57 +-----------+
+2020-07-15 13:22:57 |        20 |
+2020-07-15 13:22:57 +-----------+
+2020-07-15 13:22:59 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:22:59 +-----------+
+2020-07-15 13:22:59 | count(id) |
+2020-07-15 13:22:59 +-----------+
+2020-07-15 13:22:59 |        20 |
+2020-07-15 13:22:59 +-----------+
+2020-07-15 13:23:01 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:01 +-----------+
+2020-07-15 13:23:01 | count(id) |
+2020-07-15 13:23:01 +-----------+
+2020-07-15 13:23:01 |        20 |
+2020-07-15 13:23:01 +-----------+
+2020-07-15 13:23:02 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:02 +-----------+
+2020-07-15 13:23:02 | count(id) |
+2020-07-15 13:23:02 +-----------+
+2020-07-15 13:23:02 |        20 |
+2020-07-15 13:23:02 +-----------+
+2020-07-15 13:23:04 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:04 +-----------+
+2020-07-15 13:23:04 | count(id) |
+2020-07-15 13:23:04 +-----------+
+2020-07-15 13:23:04 |        20 |
+2020-07-15 13:23:04 +-----------+
+2020-07-15 13:23:06 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:06 +-----------+
+2020-07-15 13:23:06 | count(id) |
+2020-07-15 13:23:06 +-----------+
+2020-07-15 13:23:06 |        20 |
+2020-07-15 13:23:06 +-----------+
+2020-07-15 13:23:07 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:07 +-----------+
+2020-07-15 13:23:07 | count(id) |
+2020-07-15 13:23:07 +-----------+
+2020-07-15 13:23:07 |        20 |
+2020-07-15 13:23:07 +-----------+
+2020-07-15 13:23:09 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:09 +-----------+
+2020-07-15 13:23:09 | count(id) |
+2020-07-15 13:23:09 +-----------+
+2020-07-15 13:23:09 |        20 |
+2020-07-15 13:23:09 +-----------+
+2020-07-15 13:23:11 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:11 +-----------+
+2020-07-15 13:23:11 | count(id) |
+2020-07-15 13:23:11 +-----------+
+2020-07-15 13:23:11 |        20 |
+2020-07-15 13:23:11 +-----------+
+2020-07-15 13:23:12 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:12 +-----------+
+2020-07-15 13:23:12 | count(id) |
+2020-07-15 13:23:12 +-----------+
+2020-07-15 13:23:12 |        20 |
+2020-07-15 13:23:12 +-----------+
+2020-07-15 13:23:14 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:14 +-----------+
+2020-07-15 13:23:14 | count(id) |
+2020-07-15 13:23:14 +-----------+
+2020-07-15 13:23:14 |        20 |
+2020-07-15 13:23:14 +-----------+
+2020-07-15 13:23:15 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:15 +-----------+
+2020-07-15 13:23:15 | count(id) |
+2020-07-15 13:23:15 +-----------+
+2020-07-15 13:23:15 |        20 |
+2020-07-15 13:23:15 +-----------+
+2020-07-15 13:23:17 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:17 +-----------+
+2020-07-15 13:23:17 | count(id) |
+2020-07-15 13:23:17 +-----------+
+2020-07-15 13:23:17 |        20 |
+2020-07-15 13:23:17 +-----------+
+2020-07-15 13:23:19 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:19 +-----------+
+2020-07-15 13:23:19 | count(id) |
+2020-07-15 13:23:19 +-----------+
+2020-07-15 13:23:19 |        20 |
+2020-07-15 13:23:19 +-----------+
+2020-07-15 13:23:20 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:20 +-----------+
+2020-07-15 13:23:20 | count(id) |
+2020-07-15 13:23:20 +-----------+
+2020-07-15 13:23:20 |        20 |
+2020-07-15 13:23:20 +-----------+
+2020-07-15 13:23:22 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:22 +-----------+
+2020-07-15 13:23:22 | count(id) |
+2020-07-15 13:23:22 +-----------+
+2020-07-15 13:23:22 |        20 |
+2020-07-15 13:23:22 +-----------+
+2020-07-15 13:23:24 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:24 +-----------+
+2020-07-15 13:23:24 | count(id) |
+2020-07-15 13:23:24 +-----------+
+2020-07-15 13:23:24 |        20 |
+2020-07-15 13:23:24 +-----------+
+2020-07-15 13:23:26 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:26 +-----------+
+2020-07-15 13:23:26 | count(id) |
+2020-07-15 13:23:26 +-----------+
+2020-07-15 13:23:26 |        20 |
+2020-07-15 13:23:26 +-----------+
+2020-07-15 13:23:27 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:27 +-----------+
+2020-07-15 13:23:27 | count(id) |
+2020-07-15 13:23:27 +-----------+
+2020-07-15 13:23:27 |        20 |
+2020-07-15 13:23:27 +-----------+
+2020-07-15 13:23:29 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:29 +-----------+
+2020-07-15 13:23:29 | count(id) |
+2020-07-15 13:23:29 +-----------+
+2020-07-15 13:23:29 |        20 |
+2020-07-15 13:23:29 +-----------+
+2020-07-15 13:23:31 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:31 +-----------+
+2020-07-15 13:23:31 | count(id) |
+2020-07-15 13:23:31 +-----------+
+2020-07-15 13:23:31 |        20 |
+2020-07-15 13:23:31 +-----------+
+2020-07-15 13:23:33 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:33 +-----------+
+2020-07-15 13:23:33 | count(id) |
+2020-07-15 13:23:33 +-----------+
+2020-07-15 13:23:33 |        20 |
+2020-07-15 13:23:33 +-----------+
+2020-07-15 13:23:34 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:34 +-----------+
+2020-07-15 13:23:34 | count(id) |
+2020-07-15 13:23:34 +-----------+
+2020-07-15 13:23:34 |        20 |
+2020-07-15 13:23:34 +-----------+
+2020-07-15 13:23:36 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:36 +-----------+
+2020-07-15 13:23:36 | count(id) |
+2020-07-15 13:23:36 +-----------+
+2020-07-15 13:23:36 |        20 |
+2020-07-15 13:23:36 +-----------+
+2020-07-15 13:23:38 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:38 +-----------+
+2020-07-15 13:23:38 | count(id) |
+2020-07-15 13:23:38 +-----------+
+2020-07-15 13:23:38 |        20 |
+2020-07-15 13:23:38 +-----------+
+2020-07-15 13:23:40 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:40 +-----------+
+2020-07-15 13:23:40 | count(id) |
+2020-07-15 13:23:40 +-----------+
+2020-07-15 13:23:40 |        20 |
+2020-07-15 13:23:40 +-----------+
+2020-07-15 13:23:41 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:41 +-----------+
+2020-07-15 13:23:41 | count(id) |
+2020-07-15 13:23:41 +-----------+
+2020-07-15 13:23:41 |        20 |
+2020-07-15 13:23:41 +-----------+
+2020-07-15 13:23:43 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:43 +-----------+
+2020-07-15 13:23:43 | count(id) |
+2020-07-15 13:23:43 +-----------+
+2020-07-15 13:23:43 |        20 |
+2020-07-15 13:23:43 +-----------+
+2020-07-15 13:23:45 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:45 +-----------+
+2020-07-15 13:23:45 | count(id) |
+2020-07-15 13:23:45 +-----------+
+2020-07-15 13:23:45 |        20 |
+2020-07-15 13:23:45 +-----------+
+2020-07-15 13:23:46 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:46 +-----------+
+2020-07-15 13:23:46 | count(id) |
+2020-07-15 13:23:46 +-----------+
+2020-07-15 13:23:46 |        20 |
+2020-07-15 13:23:46 +-----------+
+2020-07-15 13:23:48 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:48 +-----------+
+2020-07-15 13:23:48 | count(id) |
+2020-07-15 13:23:48 +-----------+
+2020-07-15 13:23:48 |        20 |
+2020-07-15 13:23:48 +-----------+
+2020-07-15 13:23:50 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:50 +-----------+
+2020-07-15 13:23:50 | count(id) |
+2020-07-15 13:23:50 +-----------+
+2020-07-15 13:23:50 |        20 |
+2020-07-15 13:23:50 +-----------+
+2020-07-15 13:23:52 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:52 +-----------+
+2020-07-15 13:23:52 | count(id) |
+2020-07-15 13:23:52 +-----------+
+2020-07-15 13:23:52 |        20 |
+2020-07-15 13:23:52 +-----------+
+2020-07-15 13:23:53 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:53 +-----------+
+2020-07-15 13:23:53 | count(id) |
+2020-07-15 13:23:53 +-----------+
+2020-07-15 13:23:53 |        20 |
+2020-07-15 13:23:53 +-----------+
+2020-07-15 13:23:55 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:55 +-----------+
+2020-07-15 13:23:55 | count(id) |
+2020-07-15 13:23:55 +-----------+
+2020-07-15 13:23:55 |        20 |
+2020-07-15 13:23:55 +-----------+
+2020-07-15 13:23:57 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:57 +-----------+
+2020-07-15 13:23:57 | count(id) |
+2020-07-15 13:23:57 +-----------+
+2020-07-15 13:23:57 |        20 |
+2020-07-15 13:23:57 +-----------+
+2020-07-15 13:23:59 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:23:59 +-----------+
+2020-07-15 13:23:59 | count(id) |
+2020-07-15 13:23:59 +-----------+
+2020-07-15 13:23:59 |        20 |
+2020-07-15 13:23:59 +-----------+
+2020-07-15 13:24:00 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:00 +-----------+
+2020-07-15 13:24:00 | count(id) |
+2020-07-15 13:24:00 +-----------+
+2020-07-15 13:24:00 |        20 |
+2020-07-15 13:24:00 +-----------+
+2020-07-15 13:24:02 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:02 +-----------+
+2020-07-15 13:24:02 | count(id) |
+2020-07-15 13:24:02 +-----------+
+2020-07-15 13:24:02 |        20 |
+2020-07-15 13:24:02 +-----------+
+2020-07-15 13:24:04 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:04 +-----------+
+2020-07-15 13:24:04 | count(id) |
+2020-07-15 13:24:04 +-----------+
+2020-07-15 13:24:04 |        20 |
+2020-07-15 13:24:04 +-----------+
+2020-07-15 13:24:05 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:05 +-----------+
+2020-07-15 13:24:05 | count(id) |
+2020-07-15 13:24:05 +-----------+
+2020-07-15 13:24:05 |        20 |
+2020-07-15 13:24:05 +-----------+
+2020-07-15 13:24:07 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:07 +-----------+
+2020-07-15 13:24:07 | count(id) |
+2020-07-15 13:24:07 +-----------+
+2020-07-15 13:24:07 |        20 |
+2020-07-15 13:24:07 +-----------+
+2020-07-15 13:24:09 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:09 +-----------+
+2020-07-15 13:24:09 | count(id) |
+2020-07-15 13:24:09 +-----------+
+2020-07-15 13:24:09 |        20 |
+2020-07-15 13:24:09 +-----------+
+2020-07-15 13:24:10 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:10 +-----------+
+2020-07-15 13:24:10 | count(id) |
+2020-07-15 13:24:10 +-----------+
+2020-07-15 13:24:10 |        20 |
+2020-07-15 13:24:10 +-----------+
+2020-07-15 13:24:12 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:12 +-----------+
+2020-07-15 13:24:12 | count(id) |
+2020-07-15 13:24:12 +-----------+
+2020-07-15 13:24:12 |        20 |
+2020-07-15 13:24:12 +-----------+
+2020-07-15 13:24:14 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:14 +-----------+
+2020-07-15 13:24:14 | count(id) |
+2020-07-15 13:24:14 +-----------+
+2020-07-15 13:24:14 |        20 |
+2020-07-15 13:24:14 +-----------+
+2020-07-15 13:24:16 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:16 +-----------+
+2020-07-15 13:24:16 | count(id) |
+2020-07-15 13:24:16 +-----------+
+2020-07-15 13:24:16 |        20 |
+2020-07-15 13:24:16 +-----------+
+2020-07-15 13:24:17 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:17 +-----------+
+2020-07-15 13:24:17 | count(id) |
+2020-07-15 13:24:17 +-----------+
+2020-07-15 13:24:17 |        20 |
+2020-07-15 13:24:17 +-----------+
+2020-07-15 13:24:19 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:19 +-----------+
+2020-07-15 13:24:19 | count(id) |
+2020-07-15 13:24:19 +-----------+
+2020-07-15 13:24:19 |        20 |
+2020-07-15 13:24:19 +-----------+
+2020-07-15 13:24:21 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:21 +-----------+
+2020-07-15 13:24:21 | count(id) |
+2020-07-15 13:24:21 +-----------+
+2020-07-15 13:24:21 |        20 |
+2020-07-15 13:24:21 +-----------+
+2020-07-15 13:24:22 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:22 +-----------+
+2020-07-15 13:24:22 | count(id) |
+2020-07-15 13:24:22 +-----------+
+2020-07-15 13:24:22 |        20 |
+2020-07-15 13:24:22 +-----------+
+2020-07-15 13:24:24 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:24 +-----------+
+2020-07-15 13:24:24 | count(id) |
+2020-07-15 13:24:24 +-----------+
+2020-07-15 13:24:24 |        20 |
+2020-07-15 13:24:24 +-----------+
+2020-07-15 13:24:26 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:26 +-----------+
+2020-07-15 13:24:26 | count(id) |
+2020-07-15 13:24:26 +-----------+
+2020-07-15 13:24:26 |        20 |
+2020-07-15 13:24:26 +-----------+
+2020-07-15 13:24:27 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:27 +-----------+
+2020-07-15 13:24:27 | count(id) |
+2020-07-15 13:24:27 +-----------+
+2020-07-15 13:24:27 |        20 |
+2020-07-15 13:24:27 +-----------+
+2020-07-15 13:24:29 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:29 +-----------+
+2020-07-15 13:24:29 | count(id) |
+2020-07-15 13:24:29 +-----------+
+2020-07-15 13:24:29 |        20 |
+2020-07-15 13:24:29 +-----------+
+2020-07-15 13:24:31 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:31 +-----------+
+2020-07-15 13:24:31 | count(id) |
+2020-07-15 13:24:31 +-----------+
+2020-07-15 13:24:31 |        20 |
+2020-07-15 13:24:31 +-----------+
+2020-07-15 13:24:32 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:32 +-----------+
+2020-07-15 13:24:32 | count(id) |
+2020-07-15 13:24:32 +-----------+
+2020-07-15 13:24:32 |        20 |
+2020-07-15 13:24:32 +-----------+
+2020-07-15 13:24:34 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:34 +-----------+
+2020-07-15 13:24:34 | count(id) |
+2020-07-15 13:24:34 +-----------+
+2020-07-15 13:24:34 |        20 |
+2020-07-15 13:24:34 +-----------+
+2020-07-15 13:24:35 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:35 +-----------+
+2020-07-15 13:24:35 | count(id) |
+2020-07-15 13:24:35 +-----------+
+2020-07-15 13:24:35 |        20 |
+2020-07-15 13:24:35 +-----------+
+2020-07-15 13:24:37 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:37 +-----------+
+2020-07-15 13:24:37 | count(id) |
+2020-07-15 13:24:37 +-----------+
+2020-07-15 13:24:37 |        20 |
+2020-07-15 13:24:37 +-----------+
+2020-07-15 13:24:39 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:39 +-----------+
+2020-07-15 13:24:39 | count(id) |
+2020-07-15 13:24:39 +-----------+
+2020-07-15 13:24:39 |        20 |
+2020-07-15 13:24:39 +-----------+
+2020-07-15 13:24:40 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:40 +-----------+
+2020-07-15 13:24:40 | count(id) |
+2020-07-15 13:24:40 +-----------+
+2020-07-15 13:24:40 |        20 |
+2020-07-15 13:24:40 +-----------+
+2020-07-15 13:24:42 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:42 +-----------+
+2020-07-15 13:24:42 | count(id) |
+2020-07-15 13:24:42 +-----------+
+2020-07-15 13:24:42 |        20 |
+2020-07-15 13:24:42 +-----------+
+2020-07-15 13:24:43 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:43 +-----------+
+2020-07-15 13:24:43 | count(id) |
+2020-07-15 13:24:43 +-----------+
+2020-07-15 13:24:43 |        20 |
+2020-07-15 13:24:43 +-----------+
+2020-07-15 13:24:45 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:45 +-----------+
+2020-07-15 13:24:45 | count(id) |
+2020-07-15 13:24:45 +-----------+
+2020-07-15 13:24:45 |        20 |
+2020-07-15 13:24:45 +-----------+
+2020-07-15 13:24:47 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:47 +-----------+
+2020-07-15 13:24:47 | count(id) |
+2020-07-15 13:24:47 +-----------+
+2020-07-15 13:24:47 |        20 |
+2020-07-15 13:24:47 +-----------+
+2020-07-15 13:24:48 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:48 +-----------+
+2020-07-15 13:24:48 | count(id) |
+2020-07-15 13:24:48 +-----------+
+2020-07-15 13:24:48 |        20 |
+2020-07-15 13:24:48 +-----------+
+2020-07-15 13:24:50 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:50 +-----------+
+2020-07-15 13:24:50 | count(id) |
+2020-07-15 13:24:50 +-----------+
+2020-07-15 13:24:50 |        20 |
+2020-07-15 13:24:50 +-----------+
+2020-07-15 13:24:52 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:52 +-----------+
+2020-07-15 13:24:52 | count(id) |
+2020-07-15 13:24:52 +-----------+
+2020-07-15 13:24:52 |        20 |
+2020-07-15 13:24:52 +-----------+
+2020-07-15 13:24:54 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:54 +-----------+
+2020-07-15 13:24:54 | count(id) |
+2020-07-15 13:24:54 +-----------+
+2020-07-15 13:24:54 |        20 |
+2020-07-15 13:24:54 +-----------+
+2020-07-15 13:24:55 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:55 +-----------+
+2020-07-15 13:24:55 | count(id) |
+2020-07-15 13:24:55 +-----------+
+2020-07-15 13:24:55 |        20 |
+2020-07-15 13:24:55 +-----------+
+2020-07-15 13:24:57 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:57 +-----------+
+2020-07-15 13:24:57 | count(id) |
+2020-07-15 13:24:57 +-----------+
+2020-07-15 13:24:57 |        20 |
+2020-07-15 13:24:57 +-----------+
+2020-07-15 13:24:59 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:24:59 +-----------+
+2020-07-15 13:24:59 | count(id) |
+2020-07-15 13:24:59 +-----------+
+2020-07-15 13:24:59 |        20 |
+2020-07-15 13:24:59 +-----------+
+2020-07-15 13:25:00 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:00 +-----------+
+2020-07-15 13:25:00 | count(id) |
+2020-07-15 13:25:00 +-----------+
+2020-07-15 13:25:00 |        20 |
+2020-07-15 13:25:00 +-----------+
+2020-07-15 13:25:02 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:02 +-----------+
+2020-07-15 13:25:02 | count(id) |
+2020-07-15 13:25:02 +-----------+
+2020-07-15 13:25:02 |        20 |
+2020-07-15 13:25:02 +-----------+
+2020-07-15 13:25:04 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:04 +-----------+
+2020-07-15 13:25:04 | count(id) |
+2020-07-15 13:25:04 +-----------+
+2020-07-15 13:25:04 |        20 |
+2020-07-15 13:25:04 +-----------+
+2020-07-15 13:25:05 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:05 +-----------+
+2020-07-15 13:25:05 | count(id) |
+2020-07-15 13:25:05 +-----------+
+2020-07-15 13:25:05 |        20 |
+2020-07-15 13:25:05 +-----------+
+2020-07-15 13:25:07 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:07 +-----------+
+2020-07-15 13:25:07 | count(id) |
+2020-07-15 13:25:07 +-----------+
+2020-07-15 13:25:07 |        20 |
+2020-07-15 13:25:07 +-----------+
+2020-07-15 13:25:09 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:09 +-----------+
+2020-07-15 13:25:09 | count(id) |
+2020-07-15 13:25:09 +-----------+
+2020-07-15 13:25:09 |        20 |
+2020-07-15 13:25:09 +-----------+
+2020-07-15 13:25:10 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:10 +-----------+
+2020-07-15 13:25:10 | count(id) |
+2020-07-15 13:25:10 +-----------+
+2020-07-15 13:25:10 |        20 |
+2020-07-15 13:25:10 +-----------+
+2020-07-15 13:25:12 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:12 +-----------+
+2020-07-15 13:25:12 | count(id) |
+2020-07-15 13:25:12 +-----------+
+2020-07-15 13:25:12 |        20 |
+2020-07-15 13:25:12 +-----------+
+2020-07-15 13:25:14 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:14 +-----------+
+2020-07-15 13:25:14 | count(id) |
+2020-07-15 13:25:14 +-----------+
+2020-07-15 13:25:14 |        20 |
+2020-07-15 13:25:14 +-----------+
+2020-07-15 13:25:15 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:15 +-----------+
+2020-07-15 13:25:15 | count(id) |
+2020-07-15 13:25:15 +-----------+
+2020-07-15 13:25:15 |        20 |
+2020-07-15 13:25:15 +-----------+
+2020-07-15 13:25:17 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:17 +-----------+
+2020-07-15 13:25:17 | count(id) |
+2020-07-15 13:25:17 +-----------+
+2020-07-15 13:25:17 |        20 |
+2020-07-15 13:25:17 +-----------+
+2020-07-15 13:25:19 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:19 +-----------+
+2020-07-15 13:25:19 | count(id) |
+2020-07-15 13:25:19 +-----------+
+2020-07-15 13:25:19 |        20 |
+2020-07-15 13:25:19 +-----------+
+2020-07-15 13:25:20 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:20 +-----------+
+2020-07-15 13:25:20 | count(id) |
+2020-07-15 13:25:20 +-----------+
+2020-07-15 13:25:20 |        20 |
+2020-07-15 13:25:20 +-----------+
+2020-07-15 13:25:22 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:22 +-----------+
+2020-07-15 13:25:22 | count(id) |
+2020-07-15 13:25:22 +-----------+
+2020-07-15 13:25:22 |        20 |
+2020-07-15 13:25:22 +-----------+
+2020-07-15 13:25:24 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:24 +-----------+
+2020-07-15 13:25:24 | count(id) |
+2020-07-15 13:25:24 +-----------+
+2020-07-15 13:25:24 |        20 |
+2020-07-15 13:25:24 +-----------+
+2020-07-15 13:25:26 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:26 +-----------+
+2020-07-15 13:25:26 | count(id) |
+2020-07-15 13:25:26 +-----------+
+2020-07-15 13:25:26 |        20 |
+2020-07-15 13:25:26 +-----------+
+2020-07-15 13:25:27 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:27 +-----------+
+2020-07-15 13:25:27 | count(id) |
+2020-07-15 13:25:27 +-----------+
+2020-07-15 13:25:27 |        20 |
+2020-07-15 13:25:27 +-----------+
+2020-07-15 13:25:29 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:29 +-----------+
+2020-07-15 13:25:29 | count(id) |
+2020-07-15 13:25:29 +-----------+
+2020-07-15 13:25:29 |        20 |
+2020-07-15 13:25:29 +-----------+
+2020-07-15 13:25:31 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:31 +-----------+
+2020-07-15 13:25:31 | count(id) |
+2020-07-15 13:25:31 +-----------+
+2020-07-15 13:25:31 |        20 |
+2020-07-15 13:25:31 +-----------+
+2020-07-15 13:25:32 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:32 +-----------+
+2020-07-15 13:25:32 | count(id) |
+2020-07-15 13:25:32 +-----------+
+2020-07-15 13:25:32 |        20 |
+2020-07-15 13:25:32 +-----------+
+2020-07-15 13:25:34 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:34 +-----------+
+2020-07-15 13:25:34 | count(id) |
+2020-07-15 13:25:34 +-----------+
+2020-07-15 13:25:34 |        20 |
+2020-07-15 13:25:34 +-----------+
+2020-07-15 13:25:36 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:36 +-----------+
+2020-07-15 13:25:36 | count(id) |
+2020-07-15 13:25:36 +-----------+
+2020-07-15 13:25:36 |        20 |
+2020-07-15 13:25:36 +-----------+
+2020-07-15 13:25:37 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:37 +-----------+
+2020-07-15 13:25:37 | count(id) |
+2020-07-15 13:25:37 +-----------+
+2020-07-15 13:25:37 |        20 |
+2020-07-15 13:25:37 +-----------+
+2020-07-15 13:25:39 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:39 +-----------+
+2020-07-15 13:25:39 | count(id) |
+2020-07-15 13:25:39 +-----------+
+2020-07-15 13:25:39 |        20 |
+2020-07-15 13:25:39 +-----------+
+2020-07-15 13:25:41 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:41 +-----------+
+2020-07-15 13:25:41 | count(id) |
+2020-07-15 13:25:41 +-----------+
+2020-07-15 13:25:41 |        20 |
+2020-07-15 13:25:41 +-----------+
+2020-07-15 13:25:42 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:42 +-----------+
+2020-07-15 13:25:42 | count(id) |
+2020-07-15 13:25:42 +-----------+
+2020-07-15 13:25:42 |        20 |
+2020-07-15 13:25:42 +-----------+
+2020-07-15 13:25:44 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:44 +-----------+
+2020-07-15 13:25:44 | count(id) |
+2020-07-15 13:25:44 +-----------+
+2020-07-15 13:25:44 |        20 |
+2020-07-15 13:25:44 +-----------+
+2020-07-15 13:25:46 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:46 +-----------+
+2020-07-15 13:25:46 | count(id) |
+2020-07-15 13:25:46 +-----------+
+2020-07-15 13:25:46 |        20 |
+2020-07-15 13:25:46 +-----------+
+2020-07-15 13:25:47 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:47 +-----------+
+2020-07-15 13:25:47 | count(id) |
+2020-07-15 13:25:47 +-----------+
+2020-07-15 13:25:47 |        20 |
+2020-07-15 13:25:47 +-----------+
+2020-07-15 13:25:49 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:49 +-----------+
+2020-07-15 13:25:49 | count(id) |
+2020-07-15 13:25:49 +-----------+
+2020-07-15 13:25:49 |        20 |
+2020-07-15 13:25:49 +-----------+
+2020-07-15 13:25:51 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:51 +-----------+
+2020-07-15 13:25:51 | count(id) |
+2020-07-15 13:25:51 +-----------+
+2020-07-15 13:25:51 |        20 |
+2020-07-15 13:25:51 +-----------+
+2020-07-15 13:25:52 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:52 +-----------+
+2020-07-15 13:25:52 | count(id) |
+2020-07-15 13:25:52 +-----------+
+2020-07-15 13:25:52 |        20 |
+2020-07-15 13:25:52 +-----------+
+2020-07-15 13:25:54 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:54 +-----------+
+2020-07-15 13:25:54 | count(id) |
+2020-07-15 13:25:54 +-----------+
+2020-07-15 13:25:54 |        20 |
+2020-07-15 13:25:54 +-----------+
+2020-07-15 13:25:56 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:56 +-----------+
+2020-07-15 13:25:56 | count(id) |
+2020-07-15 13:25:56 +-----------+
+2020-07-15 13:25:56 |        20 |
+2020-07-15 13:25:56 +-----------+
+2020-07-15 13:25:58 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:58 +-----------+
+2020-07-15 13:25:58 | count(id) |
+2020-07-15 13:25:58 +-----------+
+2020-07-15 13:25:58 |        20 |
+2020-07-15 13:25:58 +-----------+
+2020-07-15 13:25:59 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:25:59 +-----------+
+2020-07-15 13:25:59 | count(id) |
+2020-07-15 13:25:59 +-----------+
+2020-07-15 13:25:59 |        20 |
+2020-07-15 13:25:59 +-----------+
+2020-07-15 13:26:01 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:01 +-----------+
+2020-07-15 13:26:01 | count(id) |
+2020-07-15 13:26:01 +-----------+
+2020-07-15 13:26:01 |        20 |
+2020-07-15 13:26:01 +-----------+
+2020-07-15 13:26:03 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:03 +-----------+
+2020-07-15 13:26:03 | count(id) |
+2020-07-15 13:26:03 +-----------+
+2020-07-15 13:26:03 |        20 |
+2020-07-15 13:26:03 +-----------+
+2020-07-15 13:26:04 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:04 +-----------+
+2020-07-15 13:26:04 | count(id) |
+2020-07-15 13:26:04 +-----------+
+2020-07-15 13:26:04 |        20 |
+2020-07-15 13:26:04 +-----------+
+2020-07-15 13:26:06 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:06 +-----------+
+2020-07-15 13:26:06 | count(id) |
+2020-07-15 13:26:06 +-----------+
+2020-07-15 13:26:06 |        20 |
+2020-07-15 13:26:06 +-----------+
+2020-07-15 13:26:08 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:08 +-----------+
+2020-07-15 13:26:08 | count(id) |
+2020-07-15 13:26:08 +-----------+
+2020-07-15 13:26:08 |        20 |
+2020-07-15 13:26:08 +-----------+
+2020-07-15 13:26:09 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:09 +-----------+
+2020-07-15 13:26:09 | count(id) |
+2020-07-15 13:26:09 +-----------+
+2020-07-15 13:26:09 |        20 |
+2020-07-15 13:26:09 +-----------+
+2020-07-15 13:26:11 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:11 +-----------+
+2020-07-15 13:26:11 | count(id) |
+2020-07-15 13:26:11 +-----------+
+2020-07-15 13:26:11 |        20 |
+2020-07-15 13:26:11 +-----------+
+2020-07-15 13:26:12 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:12 +-----------+
+2020-07-15 13:26:12 | count(id) |
+2020-07-15 13:26:12 +-----------+
+2020-07-15 13:26:12 |        20 |
+2020-07-15 13:26:12 +-----------+
+2020-07-15 13:26:14 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:14 +-----------+
+2020-07-15 13:26:14 | count(id) |
+2020-07-15 13:26:14 +-----------+
+2020-07-15 13:26:14 |        20 |
+2020-07-15 13:26:14 +-----------+
+2020-07-15 13:26:16 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:16 +-----------+
+2020-07-15 13:26:16 | count(id) |
+2020-07-15 13:26:16 +-----------+
+2020-07-15 13:26:16 |        20 |
+2020-07-15 13:26:16 +-----------+
+2020-07-15 13:26:17 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:17 +-----------+
+2020-07-15 13:26:17 | count(id) |
+2020-07-15 13:26:17 +-----------+
+2020-07-15 13:26:17 |        20 |
+2020-07-15 13:26:17 +-----------+
+2020-07-15 13:26:19 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:19 +-----------+
+2020-07-15 13:26:19 | count(id) |
+2020-07-15 13:26:19 +-----------+
+2020-07-15 13:26:19 |        20 |
+2020-07-15 13:26:19 +-----------+
+2020-07-15 13:26:20 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:20 +-----------+
+2020-07-15 13:26:20 | count(id) |
+2020-07-15 13:26:20 +-----------+
+2020-07-15 13:26:20 |        50 |
+2020-07-15 13:26:20 +-----------+
+2020-07-15 13:26:22 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:22 +-----------+
+2020-07-15 13:26:22 | count(id) |
+2020-07-15 13:26:22 +-----------+
+2020-07-15 13:26:22 |        50 |
+2020-07-15 13:26:22 +-----------+
+2020-07-15 13:26:24 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:24 +-----------+
+2020-07-15 13:26:24 | count(id) |
+2020-07-15 13:26:24 +-----------+
+2020-07-15 13:26:24 |        50 |
+2020-07-15 13:26:24 +-----------+
+2020-07-15 13:26:25 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:25 +-----------+
+2020-07-15 13:26:25 | count(id) |
+2020-07-15 13:26:25 +-----------+
+2020-07-15 13:26:25 |        50 |
+2020-07-15 13:26:25 +-----------+
+2020-07-15 13:26:27 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:27 +-----------+
+2020-07-15 13:26:27 | count(id) |
+2020-07-15 13:26:27 +-----------+
+2020-07-15 13:26:27 |        50 |
+2020-07-15 13:26:27 +-----------+
+2020-07-15 13:26:29 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:29 +-----------+
+2020-07-15 13:26:29 | count(id) |
+2020-07-15 13:26:29 +-----------+
+2020-07-15 13:26:29 |        50 |
+2020-07-15 13:26:29 +-----------+
+2020-07-15 13:26:30 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:30 +-----------+
+2020-07-15 13:26:30 | count(id) |
+2020-07-15 13:26:30 +-----------+
+2020-07-15 13:26:30 |        50 |
+2020-07-15 13:26:30 +-----------+
+2020-07-15 13:26:32 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:32 +-----------+
+2020-07-15 13:26:32 | count(id) |
+2020-07-15 13:26:32 +-----------+
+2020-07-15 13:26:32 |        50 |
+2020-07-15 13:26:32 +-----------+
+2020-07-15 13:26:34 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:34 +-----------+
+2020-07-15 13:26:34 | count(id) |
+2020-07-15 13:26:34 +-----------+
+2020-07-15 13:26:34 |        50 |
+2020-07-15 13:26:34 +-----------+
+2020-07-15 13:26:35 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:35 +-----------+
+2020-07-15 13:26:35 | count(id) |
+2020-07-15 13:26:35 +-----------+
+2020-07-15 13:26:35 |        50 |
+2020-07-15 13:26:35 +-----------+
+2020-07-15 13:26:37 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:37 +-----------+
+2020-07-15 13:26:37 | count(id) |
+2020-07-15 13:26:37 +-----------+
+2020-07-15 13:26:37 |        50 |
+2020-07-15 13:26:37 +-----------+
+2020-07-15 13:26:39 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:39 +-----------+
+2020-07-15 13:26:39 | count(id) |
+2020-07-15 13:26:39 +-----------+
+2020-07-15 13:26:39 |        50 |
+2020-07-15 13:26:39 +-----------+
+2020-07-15 13:26:40 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:40 +-----------+
+2020-07-15 13:26:40 | count(id) |
+2020-07-15 13:26:40 +-----------+
+2020-07-15 13:26:40 |        50 |
+2020-07-15 13:26:40 +-----------+
+2020-07-15 13:26:42 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:42 +-----------+
+2020-07-15 13:26:42 | count(id) |
+2020-07-15 13:26:42 +-----------+
+2020-07-15 13:26:42 |        50 |
+2020-07-15 13:26:42 +-----------+
+2020-07-15 13:26:44 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:44 +-----------+
+2020-07-15 13:26:44 | count(id) |
+2020-07-15 13:26:44 +-----------+
+2020-07-15 13:26:44 |        50 |
+2020-07-15 13:26:44 +-----------+
+2020-07-15 13:26:45 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:45 +-----------+
+2020-07-15 13:26:45 | count(id) |
+2020-07-15 13:26:45 +-----------+
+2020-07-15 13:26:45 |        50 |
+2020-07-15 13:26:45 +-----------+
+2020-07-15 13:26:47 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:47 +-----------+
+2020-07-15 13:26:47 | count(id) |
+2020-07-15 13:26:47 +-----------+
+2020-07-15 13:26:47 |        50 |
+2020-07-15 13:26:47 +-----------+
+2020-07-15 13:26:49 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 13:26:49 +-----------+
+2020-07-15 13:26:49 | count(id) |
+2020-07-15 13:26:49 +-----------+
+2020-07-15 13:26:49 |        50 |
+2020-07-15 13:26:49 +-----------+

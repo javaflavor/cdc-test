@@ -1,0 +1,150 @@
+2020-07-15 18:17:04 Inserting User1.
+2020-07-15 18:17:04 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:04 ERROR 1062 (23000) at line 1: Duplicate entry '2001' for key 'PRIMARY'
+2020-07-15 18:17:05 Inserting User2.
+2020-07-15 18:17:05 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:05 ERROR 1062 (23000) at line 1: Duplicate entry '2002' for key 'PRIMARY'
+2020-07-15 18:17:06 Inserting User3.
+2020-07-15 18:17:06 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:06 ERROR 1062 (23000) at line 1: Duplicate entry '2003' for key 'PRIMARY'
+2020-07-15 18:17:06 Inserting User4.
+2020-07-15 18:17:06 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:06 ERROR 1062 (23000) at line 1: Duplicate entry '2004' for key 'PRIMARY'
+2020-07-15 18:17:07 Inserting User5.
+2020-07-15 18:17:07 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:07 ERROR 1062 (23000) at line 1: Duplicate entry '2005' for key 'PRIMARY'
+2020-07-15 18:17:08 Inserting User6.
+2020-07-15 18:17:08 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:08 ERROR 1062 (23000) at line 1: Duplicate entry '2006' for key 'PRIMARY'
+2020-07-15 18:17:08 Inserting User7.
+2020-07-15 18:17:08 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:08 ERROR 1062 (23000) at line 1: Duplicate entry '2007' for key 'PRIMARY'
+2020-07-15 18:17:09 Inserting User8.
+2020-07-15 18:17:09 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:09 ERROR 1062 (23000) at line 1: Duplicate entry '2008' for key 'PRIMARY'
+2020-07-15 18:17:10 Inserting User9.
+2020-07-15 18:17:10 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:10 ERROR 1062 (23000) at line 1: Duplicate entry '2009' for key 'PRIMARY'
+2020-07-15 18:17:10 Inserting User10.
+2020-07-15 18:17:10 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:10 ERROR 1062 (23000) at line 1: Duplicate entry '20010' for key 'PRIMARY'
+2020-07-15 18:17:11 Inserting User11.
+2020-07-15 18:17:11 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:11 ERROR 1062 (23000) at line 1: Duplicate entry '20011' for key 'PRIMARY'
+2020-07-15 18:17:11 Inserting User12.
+2020-07-15 18:17:11 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:11 ERROR 1062 (23000) at line 1: Duplicate entry '20012' for key 'PRIMARY'
+2020-07-15 18:17:12 Inserting User13.
+2020-07-15 18:17:12 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:12 ERROR 1062 (23000) at line 1: Duplicate entry '20013' for key 'PRIMARY'
+2020-07-15 18:17:13 Inserting User14.
+2020-07-15 18:17:13 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:13 ERROR 1062 (23000) at line 1: Duplicate entry '20014' for key 'PRIMARY'
+2020-07-15 18:17:13 Inserting User15.
+2020-07-15 18:17:13 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:13 ERROR 1062 (23000) at line 1: Duplicate entry '20015' for key 'PRIMARY'
+2020-07-15 18:17:14 Inserting User16.
+2020-07-15 18:17:14 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:14 ERROR 1062 (23000) at line 1: Duplicate entry '20016' for key 'PRIMARY'
+2020-07-15 18:17:15 Inserting User17.
+2020-07-15 18:17:15 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:15 ERROR 1062 (23000) at line 1: Duplicate entry '20017' for key 'PRIMARY'
+2020-07-15 18:17:15 Inserting User18.
+2020-07-15 18:17:15 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:15 ERROR 1062 (23000) at line 1: Duplicate entry '20018' for key 'PRIMARY'
+2020-07-15 18:17:16 Inserting User19.
+2020-07-15 18:17:16 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:16 ERROR 1062 (23000) at line 1: Duplicate entry '20019' for key 'PRIMARY'
+2020-07-15 18:17:16 Inserting User20.
+2020-07-15 18:17:16 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:16 ERROR 1062 (23000) at line 1: Duplicate entry '20020' for key 'PRIMARY'
+2020-07-15 18:17:17 Inserting User21.
+2020-07-15 18:17:17 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:17 ERROR 1062 (23000) at line 1: Duplicate entry '20021' for key 'PRIMARY'
+2020-07-15 18:17:19 Inserting User22.
+2020-07-15 18:17:19 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:19 ERROR 1062 (23000) at line 1: Duplicate entry '20022' for key 'PRIMARY'
+2020-07-15 18:17:19 Inserting User23.
+2020-07-15 18:17:19 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:19 ERROR 1062 (23000) at line 1: Duplicate entry '20023' for key 'PRIMARY'
+2020-07-15 18:17:20 Inserting User24.
+2020-07-15 18:17:20 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:20 ERROR 1062 (23000) at line 1: Duplicate entry '20024' for key 'PRIMARY'
+2020-07-15 18:17:21 Inserting User25.
+2020-07-15 18:17:21 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:21 ERROR 1062 (23000) at line 1: Duplicate entry '20025' for key 'PRIMARY'
+2020-07-15 18:17:21 Inserting User26.
+2020-07-15 18:17:21 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:21 ERROR 1062 (23000) at line 1: Duplicate entry '20026' for key 'PRIMARY'
+2020-07-15 18:17:22 Inserting User27.
+2020-07-15 18:17:22 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:22 ERROR 1062 (23000) at line 1: Duplicate entry '20027' for key 'PRIMARY'
+2020-07-15 18:17:23 Inserting User28.
+2020-07-15 18:17:23 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:23 ERROR 1062 (23000) at line 1: Duplicate entry '20028' for key 'PRIMARY'
+2020-07-15 18:17:23 Inserting User29.
+2020-07-15 18:17:23 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:23 ERROR 1062 (23000) at line 1: Duplicate entry '20029' for key 'PRIMARY'
+2020-07-15 18:17:24 Inserting User30.
+2020-07-15 18:17:24 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:24 ERROR 1062 (23000) at line 1: Duplicate entry '20030' for key 'PRIMARY'
+2020-07-15 18:17:25 Inserting User31.
+2020-07-15 18:17:25 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:25 ERROR 1062 (23000) at line 1: Duplicate entry '20031' for key 'PRIMARY'
+2020-07-15 18:17:25 Inserting User32.
+2020-07-15 18:17:25 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:25 ERROR 1062 (23000) at line 1: Duplicate entry '20032' for key 'PRIMARY'
+2020-07-15 18:17:26 Inserting User33.
+2020-07-15 18:17:26 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:26 ERROR 1062 (23000) at line 1: Duplicate entry '20033' for key 'PRIMARY'
+2020-07-15 18:17:27 Inserting User34.
+2020-07-15 18:17:27 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:27 ERROR 1062 (23000) at line 1: Duplicate entry '20034' for key 'PRIMARY'
+2020-07-15 18:17:27 Inserting User35.
+2020-07-15 18:17:27 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:27 ERROR 1062 (23000) at line 1: Duplicate entry '20035' for key 'PRIMARY'
+2020-07-15 18:17:28 Inserting User36.
+2020-07-15 18:17:28 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:28 ERROR 1062 (23000) at line 1: Duplicate entry '20036' for key 'PRIMARY'
+2020-07-15 18:17:28 Inserting User37.
+2020-07-15 18:17:28 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:28 ERROR 1062 (23000) at line 1: Duplicate entry '20037' for key 'PRIMARY'
+2020-07-15 18:17:29 Inserting User38.
+2020-07-15 18:17:29 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:29 ERROR 1062 (23000) at line 1: Duplicate entry '20038' for key 'PRIMARY'
+2020-07-15 18:17:30 Inserting User39.
+2020-07-15 18:17:30 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:30 ERROR 1062 (23000) at line 1: Duplicate entry '20039' for key 'PRIMARY'
+2020-07-15 18:17:30 Inserting User40.
+2020-07-15 18:17:30 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:30 ERROR 1062 (23000) at line 1: Duplicate entry '20040' for key 'PRIMARY'
+2020-07-15 18:17:31 Inserting User41.
+2020-07-15 18:17:31 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:31 ERROR 1062 (23000) at line 1: Duplicate entry '20041' for key 'PRIMARY'
+2020-07-15 18:17:32 Inserting User42.
+2020-07-15 18:17:32 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:32 ERROR 1062 (23000) at line 1: Duplicate entry '20042' for key 'PRIMARY'
+2020-07-15 18:17:32 Inserting User43.
+2020-07-15 18:17:32 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:32 ERROR 1062 (23000) at line 1: Duplicate entry '20043' for key 'PRIMARY'
+2020-07-15 18:17:33 Inserting User44.
+2020-07-15 18:17:33 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:33 ERROR 1062 (23000) at line 1: Duplicate entry '20044' for key 'PRIMARY'
+2020-07-15 18:17:33 Inserting User45.
+2020-07-15 18:17:33 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:33 ERROR 1062 (23000) at line 1: Duplicate entry '20045' for key 'PRIMARY'
+2020-07-15 18:17:34 Inserting User46.
+2020-07-15 18:17:34 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:34 ERROR 1062 (23000) at line 1: Duplicate entry '20046' for key 'PRIMARY'
+2020-07-15 18:17:34 Inserting User47.
+2020-07-15 18:17:34 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:34 ERROR 1062 (23000) at line 1: Duplicate entry '20047' for key 'PRIMARY'
+2020-07-15 18:17:35 Inserting User48.
+2020-07-15 18:17:35 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:35 ERROR 1062 (23000) at line 1: Duplicate entry '20048' for key 'PRIMARY'
+2020-07-15 18:17:36 Inserting User49.
+2020-07-15 18:17:36 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:36 ERROR 1062 (23000) at line 1: Duplicate entry '20049' for key 'PRIMARY'
+2020-07-15 18:17:36 Inserting User50.
+2020-07-15 18:17:36 mysql: [Warning] Using a password on the command line interface can be insecure.
+2020-07-15 18:17:36 ERROR 1062 (23000) at line 1: Duplicate entry '20050' for key 'PRIMARY'
