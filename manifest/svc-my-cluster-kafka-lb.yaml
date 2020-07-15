@@ -1,0 +1,26 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: my-cluster-kafka-lb
+spec:
+  externalTrafficPolicy: Cluster
+  ports:
+  - name: tcp-clients
+    port: 9092
+    protocol: TCP
+    targetPort: 9092
+  - name: tcp-clientstls
+    port: 9093
+    protocol: TCP
+    targetPort: 9093
+  selector:
+    app.kubernetes.io/instance: my-cluster
+    app.kubernetes.io/managed-by: strimzi-cluster-operator
+    app.kubernetes.io/name: zookeeper
+    app.kubernetes.io/part-of: strimzi-my-cluster
+    strimzi.io/cluster: my-cluster
+    strimzi.io/kind: Kafka
+    strimzi.io/name: my-cluster-zookeeper
+  sessionAffinity: None
+  type: LoadBalancer
+
