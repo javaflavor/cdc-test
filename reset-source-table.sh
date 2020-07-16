@@ -8,4 +8,4 @@
 oc exec -n cdc-source -it \
  $(oc get pod -n cdc-source -l deploymentconfig=mysql -n cdc-source -o=jsonpath='{.items[0].metadata.name}') \
  -- mysql -u mysqluser --password=mysqlpw inventory \
- -e "delete from addresses; delete from customers;"
+ -e "delete from addresses; delete from customers where id > 2000;"
